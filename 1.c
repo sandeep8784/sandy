@@ -1,5 +1,5 @@
-first line modified
-second line modified 
+first line
+second line modified  
 third line
 forth line
 
